@@ -111,6 +111,14 @@ Through these projects, I learned:
 
 Compile using:
 
+### 📊 For DSA Visualizer
 ```bash
 g++ main.cpp sorting.cpp utils.cpp -o visualizer
 ./visualizer
+```
+
+### 📦 For Inventory System
+```bash
+g++ main.cpp inventory.cpp utils.cpp -o inventory
+./inventory
+```
